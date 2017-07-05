@@ -2,17 +2,17 @@
 title: Tim Read's lab website
 ---
 
-#Timothy D. Read Ph.D
+# Timothy D. Read Ph.D
 
-###Professor, Division of Infectious Diseases, Department of Medicine, Emory University
+### Professor, Division of Infectious Diseases, Department of Medicine, Emory University
 
 ![temporary image](/Users/timothyread/Pictures/tim_2013.JPG)
 
-##Overview
+## Overview
 
 Population genomics of bacterial pathogens, focusing currently on *Staphylococcus aureus*, *Chlamydia trachomatis*. Roles of horizontal gene transfer and recombination in the evolution of virulence. Metagenomic analysis of clinical specimens. Functional genomic approaches to pathogen vaccine and diagnostic design. Development of bioinformatic tools and databases for rapid genome analysis.
 
-##CV
+## CV
 
 * B.Sc Biological Sciences, University of London
 * Ph.D Genetics, University of Leicester
@@ -24,17 +24,17 @@ Population genomics of bacterial pathogens, focusing currently on *Staphylococcu
 <Linkedin?>
 
 
-##Lab members
+## Lab members
 
-##Publications
+## Publications
 
 [NCBI Bibliography](http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/43406898/?sort=date&direction=descending)
 
-[Google Scholar]()
+[Google Scholar](https://scholar.google.com/citations?user=XF5C7cgAAAAJ&hl=en)
 
-##Links
+## Links
 <Twitter>
 <Staphopia>
 
 
-##Blog
+## Blog
