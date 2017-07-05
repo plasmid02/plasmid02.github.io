@@ -28,7 +28,7 @@ Population genomics of bacterial pathogens, focusing currently on *Staphylococcu
 
 ## Publications
 
-[NCBI Bibliography](http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/43406898/?sort=date&direction=descending)
+[NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/44852677/?sort=date&direction=descending)
 
 [Google Scholar](https://scholar.google.com/citations?user=XF5C7cgAAAAJ&hl=en)
 
