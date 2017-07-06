@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Tim Read's Lab
+tagline:             Read Lab Emory
+url:                 https://plasmid02.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,8 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Tim Read
+  email:             tread@emory.edu
 
 # Custom vars
 version:             2.0.0
@@ -30,3 +29,9 @@ github:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+
+#nav bar 
+pages_list:
+    About: '/readlab/'
+    Archive: '/archive/'
+
